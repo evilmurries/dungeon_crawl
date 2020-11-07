@@ -1,6 +1,7 @@
 # DungeonCrawl
 
-**TODO: Add description**
+A simple CLI based game developed in Elixir. 
+Based on a tutorial in one of the pragmatic prog books
 
 ## Installation
 
